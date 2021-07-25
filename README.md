@@ -5,21 +5,23 @@
 ### Hi, I'm Hassan ✨👋                                                                                           
 
 
-I'm a **Software Engineer**, graduated from Alexandria University, **Computer and Communication Engineering** department.
+🌱 I'm a **Software Engineer**, graduated from Alexandria University, **Computer and Communication Engineering** department.
 I do coding for life as I enjoy it, not only during work, Adaptive with different technologies and Interested in exploring new tools.
 
-🌱 I’m currently working with [Cegedim](https://www.cegedim.com/) as a (Full-time) **Full Stack Engineer**.
+Check my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfolio</a>!
+
 
 I can `code` 💻 in:
 
 `Over 10000 lines`: Java, C/C++ and Python
 
-`Over 1000 lines`: C#, SQL, MATLAB, HTML, CSS, Javascript, Dart, Kotlin
+`Over 1000 lines`: Ruby, C#, SQL, MATLAB, HTML, CSS, Javascript, Dart, Kotlin
 
 `Familiar`: Assembly, Arduino
 
 I also can work with many `tools` and `frameworks` as: 
 - Spring boot (Back End `Java`)
+- Rails (Back End `Ruby`)
 - Node.JS (Back End `JavaScript`)
 - Angular , React.JS (Front End `JavaScript`) 
 - AWS (`Cloud Services`) 
