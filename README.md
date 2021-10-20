@@ -23,6 +23,8 @@ I also can work with many `tools` and `frameworks` as:
 - Spring boot (Back End `Java`)
 - Rails (Back End `Ruby`)
 - Node.JS (Back End `JavaScript`)
+- Looker (Data Analytics)
+- Tableau (Data Analytics)
 - Angular , React.JS (Front End `JavaScript`) 
 - AWS (`Cloud Services`) 
 - Swagger (`Api` Documentation)
