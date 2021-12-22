@@ -22,6 +22,7 @@ I can `code` 💻 in:
 I also can work with many `tools` and `frameworks` as: 
 - Spring boot (Back End `Java`)
 - Rails (Back End `Ruby`)
+- Django/rest-framework (Back End `Python`)
 - Node.JS (Back End `JavaScript`)
 - Looker (Data Analytics)
 - Tableau (Data Analytics)
