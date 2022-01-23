@@ -13,9 +13,9 @@ Check my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfolio<
 
 I can `code` 💻 in:
 
-`Over 10000 lines`: Java, C/C++ and Python
+`Over 10000 lines`: Java, C/C++, TypeScript and Python
 
-`Over 1000 lines`: Ruby, C#, SQL, MATLAB, HTML, CSS, Javascript, Dart, Kotlin
+`Over 1000 lines`: Ruby, C#, SQL, MATLAB, HTML, CSS, Dart, Kotlin
 
 `Familiar`: Assembly, Arduino
 
