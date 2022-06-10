@@ -23,6 +23,7 @@ I also can work with many `tools` and `frameworks` as:
 - Spring boot (Back End `Java`)
 - Rails (Back End `Ruby`)
 - Django/rest-framework (Back End `Python`)
+- Flask (Back End `Python`)
 - Node.JS (Back End `JavaScript`)
 - Looker (Data Analytics)
 - Tableau (Data Analytics)
@@ -35,3 +36,13 @@ I also can work with many `tools` and `frameworks` as:
 - Git (`Version Control`)
 - Jira (`Agile Methodology`)
 - Flutter (`Cross Platform`)
+
+
+<div align="center"> 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassan-elseoudy&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-elseoudy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
