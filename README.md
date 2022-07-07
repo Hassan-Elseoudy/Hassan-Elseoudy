@@ -13,9 +13,9 @@ Check my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfolio<
 
 I can `code` 💻 in:
 
-`Over 10000 lines`: Java, C/C++, TypeScript and Python
-
-`Over 1000 lines`: Ruby, C#, SQL, MATLAB, HTML, CSS, Dart, Kotlin
+- `Over 100000 lines`: Java, Python and TypeScript.
+- `Over 10000 lines`: SQL, Ruby, C# and C/C++.
+- `Over 1000 lines`: MATLAB, HTML, CSS, Dart, Kotlin
 
 `Familiar`: Assembly, Arduino
 
@@ -27,11 +27,12 @@ I also can work with many `tools` and `frameworks` as:
 - Node.JS (Back End `JavaScript`)
 - Looker (Data Analytics)
 - Tableau (Data Analytics)
-- Angular , React.JS (Front End `JavaScript`) 
+- Angular , React.JS (Front End `TypeScript`) 
 - AWS (`Cloud Services`) 
+- GCP (`Cloud Services`) 
 - Swagger (`Api` Documentation)
-- Mockito, Karma (`Testing`)
-- MongoDB & MySQL (`Databases`)
+- Mockito, Karma, PyTest, Unittest (`Testing`)
+- MongoDB, MySQL & PostgreSQL (`Databases`)
 - Hadoop (`Big Data`)
 - Git (`Version Control`)
 - Jira (`Agile Methodology`)
