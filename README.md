@@ -41,6 +41,8 @@ I also can work with many `tools` and `frameworks` as:
 
 <div align="center"> 
 
+<a href="https://app.daily.dev/hassan_elseoudy"><img src="https://api.daily.dev/devcards/6af415956a7d400e915a7db5fea15214.png?r=hk3" width="400" alt="Hassan Elseoudy's Dev Card"/></a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hassan-elseoudy&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-elseoudy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
