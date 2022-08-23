@@ -19,23 +19,24 @@ I can `code` 💻 in:
 
 `Familiar`: Assembly, Arduino
 
-I also can work with many `tools` and `frameworks` as: 
-- Spring boot (Back End `Java`)
-- Rails (Back End `Ruby`)
+I also can work with many `tools` and `frameworks`: 
 - Django/rest-framework (Back End `Python`)
-- Flask (Back End `Python`)
-- Node.JS (Back End `JavaScript`)
-- Looker (Data Analytics)
-- Tableau (Data Analytics)
-- Angular , React.JS (Front End `TypeScript`) 
+- Spring boot (Back End `Java`)
 - AWS (`Cloud Services`) 
+- Git (`Version Control`)
+- Jira (`Agile Methodology`)
+- Angular (Front End `TypeScript`) 
+- Tableau (Data Analytics)
+- Looker (Data Analytics)
+- React.JS (Front End `TypeScript`) 
+- Rails (Back End `Ruby`)
+- Flask (Back End `Python`)
 - GCP (`Cloud Services`) 
 - Swagger (`Api` Documentation)
+- Node.JS (Back End `JavaScript`)
 - Mockito, Karma, PyTest, Unittest (`Testing`)
 - MongoDB, MySQL & PostgreSQL (`Databases`)
 - Hadoop (`Big Data`)
-- Git (`Version Control`)
-- Jira (`Agile Methodology`)
 - Flutter (`Cross Platform`)
 
 
