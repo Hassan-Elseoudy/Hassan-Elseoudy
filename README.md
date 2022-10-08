@@ -13,7 +13,7 @@ Check out my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfo
 
 I can `code` 💻 in:
 
-- `Over 100000 lines`: Java, Python and TypeScript.
+- `Over 100000 lines`: Java, Python and TypeScript
 - `Over 10000 lines`: SQL, Ruby, Kotlin, C# and C/C++
 - `Over 1000 lines`: MATLAB, HTML, CSS, Dart
 
