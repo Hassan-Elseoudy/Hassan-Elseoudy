@@ -8,7 +8,7 @@
 🌱 I'm a **Software Engineer**, graduated from Alexandria University, **Computer and Communication Engineering** department.
 I do coding for life as I enjoy it, not only during work, Adaptive with different technologies and Interested in exploring new tools.
 
-Check out my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfolio</a>!
+Check out my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfolio</a>
 
 
 I can `code` 💻 in:
