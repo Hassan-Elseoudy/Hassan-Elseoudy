@@ -13,15 +13,15 @@ Check out my <a href="https://hassan-elseoudy.github.io/" target="_blank">portfo
 
 I can `code` 💻 in:
 
-- `Over 100000 lines`: Java, Python and TypeScript.
-- `Over 10000 lines`: SQL, Ruby, Kotlin, C# and C/C++.
+- `Over 100000 lines`: Java, Kotlin, Python and TypeScript.
+- `Over 10000 lines`: SQL, Ruby, C# and C/C++.
 - `Over 1000 lines`: MATLAB, HTML, CSS, Dart.
 
 `Familiar`: Assembly, Arduino
 
 I also can work with many `tools` and `frameworks`: 
 - Django/rest-framework (Back End `Python`)
-- Spring boot (Back End `Java`)
+- Spring boot (Back End `Java`, `Kotlin`)
 - AWS (`Cloud Services`) 
 - Git (`Version Control`)
 - Jira (`Agile Methodology`)
