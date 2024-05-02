@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.ibb.co/Zd5R33H/53fe04f9-8115-446a-8173-0831c55330ee-removebg-preview.png" width=100 height=100/>
-</p>
-
 ### Hi, I'm Hassan ✨👋
 
 
