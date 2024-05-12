@@ -6,21 +6,21 @@
 <a href="https://hassan-elseoudy.github.io/" target="_blank">Portfolio</a>
 
 
-I can `code` 💻 in:
+Can `code` 💻 in:
 
 - `Over 100000 lines`: Java, Kotlin, Python and TypeScript.
 - `Over 10000 lines`: SQL, Ruby, C# and C/C++.
 
 `Familiar`: Assembly, Arduino
 
-I also can work with many `tools` and `frameworks`: 
+`Also can work with many `tools` and `frameworks`: 
 - Django/rest-framework (Back End `Python`)
 - Spring boot (Back End `Java`, `Kotlin`)
 - AWS (`Cloud Services`) 
 - Git (`Version Control`)
 - Jira (`Agile Methodology`)
 - Angular (Front End `TypeScript`) 
-- Tableau (Data Analytics)
+- Tableau / Looker / Metabase (Data Analytics)
 - Looker (Data Analytics)
 - React.JS (Front End `TypeScript`) 
 - Rails (Back End `Ruby`)
