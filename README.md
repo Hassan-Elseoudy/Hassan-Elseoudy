@@ -8,8 +8,8 @@
 
 Can `code` 💻 in:
 
-- `Over 100000 lines`: Java, Kotlin, Python and TypeScript.
-- `Over 10000 lines`: SQL, Ruby, C# and C/C++.
+- `Over 100000 lines`: Java, Kotlin, Python.
+- `Over 10000 lines`: SQL, Ruby, C#, C/C++ and TypeScript.
 
 `Familiar`: Assembly, Arduino
 
